@@ -1,5 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE.md)
-[![Latest Commit](https://img.shields.io/github/last-commit/selmansem/FP-Laboratorio?color=blue)](https://github.com/selmansem/FP-Laboratorio/commits/main)
+[![Latest Commit](https://img.shields.io/github/last-commit/selmansem/FP-Laboratorio?color=blue)](https://github.com/selmansem/FP-Laboratorio/commits/master)
 
 # Actividades de Laboratorio de FP (Fundamentos de Programación)
 
