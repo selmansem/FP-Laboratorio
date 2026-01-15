@@ -35,6 +35,7 @@
 -   Ejercicio 18: Dibujar un triángulo de Floyd (ASCII Art)
 -   Ejercicio 19: Array. Limpieza de duplicados
 -   Ejercicio 20: Encuentra el máximo
+-   Ejercicio 21: Módulo que acepte un número n y devuelva su factorial
 
 -   Ejercicio teórico 1: Determinar par o impar
 -   Ejercicio teórico 2: Determinar si se puede formar un triángulo y el tipo según la longitud de sus lados
