@@ -4,7 +4,7 @@
 # Actividades de Laboratorio de FP (Fundamentos de Programación)
 
 > [!NOTE]
-> Este repositorio contiene las actividades de laboratorio correspondientes a la asignatura de Fundamentos de Programación (FP) de primero de Ingeniería Informática en la Universidad de Granada (UGR) propuestos por Manuel Lozano.
+> Este repositorio contiene las actividades de laboratorio correspondientes a la asignatura de Fundamentos de Programación (FP) de primero de Ingeniería Informática en la Universidad de Granada (UGR) propuestas por [Prof. Dr. Manuel Lozano](https://www.ugr.es/personal/manuel-lozano-marquez).
 
 > [!WARNING]
 > Este repositorio aun está en construcción. Algunas actividades pueden no estar completas o contener errores.
