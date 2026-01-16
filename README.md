@@ -51,11 +51,11 @@ Hay 9 figuras en la carpeta [src/figuras](./src/figuras).
 
 ## Entregas
 
--   Entrega 1: Gestión de estructuras
--   Entrega 2: Examen 2021/2022
+-   Entrega 1: Examen 2021/2022
     -   Ejercicio 1: Proceso de Kaprekar
     -   Ejercicio 2: Mayor palíndromo
     -   Ejercicio 3: Tableros de importancia relativa
+-   Entrega 2: Gestión de estructuras
 
 ## Tools
 
